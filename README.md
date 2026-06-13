@@ -1,8 +1,6 @@
 # Reviewer LLM Independen
-Daftar LLM Yang bisa bertindak sebagai reviewer independen
 
-
-## LLM Untuk Review Hasil Independen
+Daftar LLM Yang bisa bertindak sebagai reviewer independen:
 1. [grok](https://grok.com/)
 2. [qwen](https://chat.qwen.ai/)
 3. [minimax](https://agent.minimax.io/)
